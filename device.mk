@@ -26,4 +26,3 @@ $(call inherit-product, vendor/xiaomi/cereus/cereus-vendor.mk)
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
-
